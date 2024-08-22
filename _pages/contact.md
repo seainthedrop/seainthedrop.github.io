@@ -15,6 +15,9 @@ author_profile: true
 	<label name="Email">Email</label> 
 	<input type="email" name="Email" placeholder="Email" required="true" maxlength="100"/>
 
+	<label name="Message">Message</label> 
+	<input type="text" name="Message" placeholder="Brief Message" required="true" maxlength="200"/>
+
 	<!-- override the redirect URL -->
 	<input type="hidden" name="_gs_override_redirect_url"
 	value="https://www.seainthedrop.com/thankyou/"/>
