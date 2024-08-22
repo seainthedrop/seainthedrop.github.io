@@ -16,7 +16,7 @@ author_profile: true
 	<input type="email" name="Email" placeholder="Email" required="true" maxlength="100"/>
 
 	<label name="Message">Message</label> 
-	<input type="text" name="Message" placeholder="Brief Message" required="true" maxlength="200"/>
+	<input type="text" name="Message" placeholder="Message (240 char max)" required="true" maxlength="240"/>
 
 	<!-- override the redirect URL -->
 	<input type="hidden" name="_gs_override_redirect_url"
