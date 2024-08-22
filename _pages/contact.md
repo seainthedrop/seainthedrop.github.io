@@ -13,10 +13,10 @@ author_profile: true
 	<input type="text" name="Full Name" placeholder="Full Name"/>
 
 	<label name="Email">Email</label> 
-	<input type="text" name="Email" placeholder="Email"/>
+	<input type="email" name="Email" placeholder="Email"/>
 
 	<label name="Message">Message</label> 
-	<input type="text" name="Message" placeholder="Message"/>
+	<textarea id="Message" placeholder="Message" rows="10" required></textarea>
  
 	<!-- override the redirect URL -->
 	<input type="hidden" name="_gs_override_redirect_url"
