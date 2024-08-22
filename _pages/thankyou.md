@@ -1,6 +1,6 @@
 ---
 permalink: /thankyou/
-title: "Thanks!"
+title: "Submission Received"
 layout: single
 author_profile: true
 ---
