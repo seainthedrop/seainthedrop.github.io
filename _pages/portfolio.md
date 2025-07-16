@@ -35,7 +35,7 @@ Junichi Fujisaku, Yuki Yoshimoto, Shirow Masamune
     - Vols. 1 - 7  
 - [_The Ghost in the Shell: The Human Algorithm_](https://kodansha.us/series/the-ghost-in-the-shell-the-human-algorithm/)  
 Junichi Fujisaku, Yuki Yoshimoto, Shirow Masamune  
-    - Vols. 1 - 4  
+    - Vols. 1 - 8  
 - [_Great Pretender_](https://sevenseasentertainment.com/books/great-pretender-vol-1/)  
 Ryouta Furusawa, Daichi Marui, Yoshiyuki Sadamoto, Hiro Kaburagi  
     - Vol. 1  
@@ -47,15 +47,15 @@ Yuki Fumino
     - Vols. 1 - 3  
 - [_I Hear the Sunspot: Four Seasons_](https://www.onepeacebooks.com/jt/Sunspot.html)  
 Yuki Fumino  
-    - Vols. 1 - 2  
+    - Vols. 1 - 3  
 - [_Magus of the Library_](https://kodansha.us/series/magus-of-the-library/)  
 Mitsu Izumi  
-    - Vols. 1 - 7  
+    - Vols. 1 - 8  
 - [_Witch Hat Atelier_](https://kodansha.us/series/witch-hat-atelier/)  
 Kamome Shirahama  
-    - Vols. 1 - 12  
+    - Vols. 1 - 13  
 - [_Witch Hat Atelier Kitchen_](https://kodansha.us/series/witch-hat-atelier-kitchen/)  
 Hiromi Sato, Kamome Shirahama  
-    - Vols. 1 - 4  
+    - Vols. 1 - 5  
 
 
