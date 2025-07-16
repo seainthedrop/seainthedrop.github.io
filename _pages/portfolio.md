@@ -8,9 +8,10 @@ author_profile: true
 Awards
 ------
 
-- [Harvey Award (_Witch Hat Atelier_)](https://www.harveyawards.com/en-us/winners.html)  
+- [Best Translation, 2024 American Manga Awards (for _Witch Hat Atelier_)](https://animenyc.com/american-manga-awards/2024-amas/)
+- [2020 Harvey Awards (_Witch Hat Atelier_)](https://www.harveyawards.com/en-us/winners.html)
+- [2020 Will Eisner Comic Industry Awards (_Witch Hat Atelier_)](https://www.comic-con.org/awards/eisner-awards/past-recipients/past-recipenties-2020s/)
 - Manga Translation Battle, Vol. 6 (first prize)
-- [Will Eisner Comic Industry Award (_Witch Hat Atelier_)](https://www.comic-con.org/awards/eisner-awards/past-recipients/past-recipenties-2020s/)  
 
 Novels
 ------
