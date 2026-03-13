@@ -6,7 +6,7 @@ author_profile: true
 ---
   
 <form 
-	action="https://gdsht.app/s/4249da1b2c2f47f0b4f5ec872a82b0e0" 
+	action="" 
 	method="POST" 
 > 
 	<label name="Full Name">Full Name</label> 
